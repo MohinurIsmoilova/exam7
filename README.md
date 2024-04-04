@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # exam7
 # exam7
 # exam7
+# Exam07

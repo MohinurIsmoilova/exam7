@@ -2,6 +2,11 @@ import React from 'react'
 
 export const PlantsDetails = () => {
   return (
-    <div>PlantsDetails</div>
+    <>
+    <div className="container">
+        dfgtr
+        
+    </div>
+    </>
   )
 }
